@@ -44,7 +44,7 @@ A lightweight web application designed to help blind or visually impaired users 
 project/  
 │  
 ├── static/
-│   └── uploads/                # Uploaded and processed image files                        
+│   └── uploads/            # Uploaded and processed image files                        
 ├── templates/  
 │   └── index.html          # Main Flask template  
 ├── app.py                  # Flask application  
@@ -59,8 +59,8 @@ project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/image-to-speech-app.git
-cd image-to-speech-app 
+git clone https://github.com/Jawad-02/Image-to-Speech.git
+cd Image-to-Speech
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
